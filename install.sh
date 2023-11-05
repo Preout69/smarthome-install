@@ -11,6 +11,8 @@ echo "deb [signed-by=/etc/apt/keyrings/nodesource.gpg] https://deb.nodesource.co
 apt-get update
 apt-get install nodejs -y
 
+npm install pm2@latest -g
+
 rm -R smarthome/
 # Ask the user for their name
 echo Enter Git repository with Token
