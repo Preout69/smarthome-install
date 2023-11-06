@@ -1,5 +1,4 @@
-# smarthome-install
-
+# proxmox templates
 
 ioBroker Template: [Download](https://drive.google.com/file/d/1bjuP-oozeu1Ob8Qwi89U-a4Lx40ArWiV/view?usp=drive_link)
 
