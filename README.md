@@ -2,7 +2,7 @@
 
 ioBroker Template: [Download](https://drive.google.com/file/d/1bjuP-oozeu1Ob8Qwi89U-a4Lx40ArWiV/view?usp=drive_link)
 
-ioBroker Frontend Template: [Download](https://drive.google.com/file/d/1mpN22N3nXOHcD-WEXkDm6avYYad-B3Df/view?usp=drive_link)
+ioBroker Frontend Template: [Download](https://drive.google.com/file/d/1PFaBPG5E0A9QRXtWIkTmpVhBxqpySyYt/view?usp=drive_link)
 
 ## Installation Frontend
 
