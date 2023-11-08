@@ -11,7 +11,4 @@ ioBroker Frontend Template: [Download](https://drive.google.com/file/d/1N4ti9eSb
 ### run install script
 > bash install.sh
 
-    during the install script you will be asked for three things
-    - first one will be your email token, enter the provided token
-    - second one will be your repository token, enter the provided token
-    - the next promt can be answered with yes or no it doesn't matter
+    during the install script you will be asked for your repository token, enter the provided text
