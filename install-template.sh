@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#TODO: add bun
+
 apt update
 apt upgrade -y
 
